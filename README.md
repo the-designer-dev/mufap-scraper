@@ -3,7 +3,8 @@ This is a python based web scraper that takes data from MUFAP's Performance Summ
 - Open End Schemes 
 - Dedicated Equity Funds 
 - Voluntary Pension Funds 
-- Exchange Traded Fund (ETF) <br>
+- Exchange Traded Fund (ETF)
+
 This code was written to assist Fund Managers, Product Managers, Developers and Investors in making quick decisions with regards to Mutual Funds performance. This repository is the first step in extracting fast changing information reliably from the regulators website. 
 
 # Potential Use Cases
