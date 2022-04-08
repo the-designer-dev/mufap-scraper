@@ -24,3 +24,6 @@ This code may work on different versions of each of the listed language and pack
 
 # Sample Files
 To see the final result, you can download any of the .xls files to see what you should expect as output.
+
+# Fair Usage Policy
+Please be considerate of the regulator's server costs. Two requests a day should be more than sufficient for most activities regarding data analysis as these values do not change as much. Sending more requests to the website will result in additional server costs for the regulator and may even result in them blocking such automated requests.
