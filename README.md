@@ -12,11 +12,11 @@ Something we already built for our clients was an easy to use dashboard which ca
 # How To Install
 This code may work on different versions of each of the listed language and packages below. Although the versions listed below have been tested repeatedly from 2018 to 2022.
 
-Python ==> 3.8.5
-Jupyter Notebook ==> 6.1.4
-Regex ==> 2.2.1
-Requests ==> 2.24.0
-Pandas ==> 1.1.3
-NumPy ==> 1.19.2
+- Python ==> 3.8.5
+- Jupyter Notebook ==> 6.1.4
+- Regex ==> 2.2.1
+- Requests ==> 2.24.0
+- Pandas ==> 1.1.3
+- NumPy ==> 1.19.2
 
 # IMPORTANT: Create a virtual environment to make sure other Python code in your computer does not break due to the change in dependencies.
