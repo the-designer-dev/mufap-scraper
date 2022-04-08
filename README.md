@@ -21,3 +21,6 @@ This code may work on different versions of each of the listed language and pack
 - NumPy ==> 1.19.2
 
 # IMPORTANT: Create a virtual environment to make sure other Python code in your computer does not break due to the change in dependencies.
+
+# Sample Files
+To see the final result, you can download any of the .xls files to see what you should expect as output.
